@@ -2,7 +2,7 @@
 
 # 📥 Download Files via Commit Message
 
-A GitHub Actions workflow that lets you down load files into your repository just by writing a special commit message — no terminal or command line needed.
+A GitHub Actions workflow that l ets you down load files into your repository just by writing a special commit message — no terminal or command line needed.
 
 --- 
  
